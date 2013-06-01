@@ -1,0 +1,13 @@
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bin\Debug\resources.pri
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bin\Debug\AppxManifest.xml
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bin\Debug\BaseballApp.build.appxrecipe
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\priconfig.xml.intermediate
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\layout.resfiles.intermediate
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\resources.resfiles.intermediate
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\pri.resfiles.intermediate
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\priconfig.xml
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\layout.resfiles
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\resources.resfiles
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\pri.resfiles
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\LanguageQualifiers.txt
+C:\Users\Keith\Desktop\Improving\BaseballApp\BaseballApp\bld\Debug\ProjectArchitectures.txt
